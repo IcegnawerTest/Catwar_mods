@@ -1,17 +1,15 @@
 // ==UserScript==
-// @name        All_energy_visible
-// @namespace    http://tampermonkey.net/
-// @version      v4
+// @name         All_energy_visible
+// @namespace    https://github.com/IcegnawerTest/Catwar_mods
+// @version      4.0.0
 // @description  В боережиме выводит показатель процентов энергии стрелы на модельки игроков
 // @author       Основа кода - Громохват 1673040, улучшено Крутой Яр 1689423.
 // @match        https://catwar.su/cw3/
 // @match        https://catwar.net/cw3/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=catwar.su
-// @require      https://github.com/IcegnawerTest/Catwar_mods/All_energy_visible.js
 // @license      MIT
 // @grant        none
 // ==/UserScript==
-
 (function() {
     'use strict';
 
